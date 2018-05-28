@@ -20,4 +20,4 @@ $ node main.js
 ```
 
 Then you put your endpoint to ComeCat Console.
-Pls check (Help)[https://doc.come.cat/5_apiwebhook/2_webhook] to see how to setup webhook URL.
+Pls check Help (https://doc.come.cat/5_apiwebhook/2_webhook) to see how to setup webhook URL.
